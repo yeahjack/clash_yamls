@@ -1,0 +1,15 @@
+payload:
+  # (D.C.S.G?)
+  - DOMAIN-SUFFIX,9cache.com
+  # New Bing
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,msn.cn
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,office
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
