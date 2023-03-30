@@ -11,5 +11,6 @@ payload:
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,office
+  # ChatGPT
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
